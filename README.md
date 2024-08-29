@@ -3,8 +3,8 @@ Welcome to my Data Science Dashboard Portfolio! This repository showcases a coll
 
 ## Table of Contents
 1. Overview
-2. Dashboards
-   Dashboard 1: Sales Performance Analysis - Excel
+2. Dashboards | 
+   Dashboard 1: Sales Performance Analysis - Excel | 
    Dashboard 2: Revenue Dashboard - Looker Studio
 4. Tools & Technologies
 5. Contributing
@@ -34,6 +34,7 @@ Identified highest revenue-generating channels and customer segments.
 Highlighted trends in revenue growth over different time periods.
 
 Tool Used: Looker Studio
+Link: https://lookerstudio.google.com/reporting/7fb75ae8-67a9-4bea-bca9-a285f24a0f42
 
 ## 3. Contributing
 
